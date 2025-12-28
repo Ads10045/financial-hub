@@ -1,0 +1,24 @@
+{
+  "LoginPage": {
+    "title": "Welcome",
+    "subscriberId": "Subscriber ID",
+    "password": "Access Key",
+    "connect": "Sign In"
+  },
+  "DashboardPage": {
+    "home": "Home",
+    "accountList": "Account List",
+    "promoTitle": "Simplify your life with electronic signature!",
+    "promoText": "E-sign all your remote banking contracts (EBICS, NetCash...) on Ma Banque Entreprise. Do not hesitate to contact your Relationship Manager.",
+    "knowMore": "Learn more",
+    "maBanque": "My Business Bank",
+    "modifyGroup": "Modify account group",
+    "labelNumber": "Label / Number",
+    "balanceDate": "Balance on 12/24/2025",
+    "futureBalance": "Future Balance",
+    "currency": "Currency",
+    "currentAccounts": "CURRENT ACCOUNTS",
+    "totalBalance": "TOTAL BALANCE",
+    "topOfPage": "Top of page"
+  }
+}

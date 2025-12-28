@@ -1,0 +1,230 @@
+[2025-12-28T10:19:59.327Z] ------------------------------------------
+[2025-12-28T10:19:59.327Z] EMAIL SENDING INITIATED - Recipient: youness.abach.20@gmail.com, Code: 888888
+[2025-12-28T10:19:59.327Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:19:59.741Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324ea1b1b1sm55773930f8f.3 - gsmtp
+[2025-12-28T10:19:59.741Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324ea1b1b1sm55773930f8f.3 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:21:42.355Z] ------------------------------------------
+[2025-12-28T10:21:42.356Z] EMAIL SENDING INITIATED - Recipient: youness.abach.20@gmail.com, Code: 888888
+[2025-12-28T10:21:42.356Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:21:42.712Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be3aa8fd9sm209077215e9.10 - gsmtp
+[2025-12-28T10:21:42.712Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be3aa8fd9sm209077215e9.10 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:28:03.901Z] ------------------------------------------
+[2025-12-28T10:28:03.901Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 673914
+[2025-12-28T10:28:03.902Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:28:04.300Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-43277b82a58sm22490073f8f.6 - gsmtp
+[2025-12-28T10:28:04.301Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-43277b82a58sm22490073f8f.6 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:29:07.027Z] ------------------------------------------
+[2025-12-28T10:29:07.028Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 861902
+[2025-12-28T10:29:07.028Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:29:07.426Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be396c909sm208598755e9.0 - gsmtp
+[2025-12-28T10:29:07.426Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be396c909sm208598755e9.0 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:29:54.570Z] ------------------------------------------
+[2025-12-28T10:29:54.571Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 674225
+[2025-12-28T10:29:54.571Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:29:54.881Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be273f147sm549351485e9.7 - gsmtp
+[2025-12-28T10:29:54.882Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be273f147sm549351485e9.7 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:30:05.124Z] ------------------------------------------
+[2025-12-28T10:30:05.125Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 269260
+[2025-12-28T10:30:05.125Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:30:05.428Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be279c637sm513762435e9.11 - gsmtp
+[2025-12-28T10:30:05.428Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be279c637sm513762435e9.11 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:30:13.550Z] ------------------------------------------
+[2025-12-28T10:30:13.551Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 576907
+[2025-12-28T10:30:13.551Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:30:13.836Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324ea1b1b1sm55820109f8f.3 - gsmtp
+[2025-12-28T10:30:13.836Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324ea1b1b1sm55820109f8f.3 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:30:30.903Z] ------------------------------------------
+[2025-12-28T10:30:30.903Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 802585
+[2025-12-28T10:30:30.904Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:30:31.223Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324eab33f5sm56232212f8f.41 - gsmtp
+[2025-12-28T10:30:31.223Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324eab33f5sm56232212f8f.41 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:37:50.199Z] ------------------------------------------
+[2025-12-28T10:37:50.199Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 769274
+[2025-12-28T10:37:50.199Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:37:50.886Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be2723d19sm575660455e9.2 - gsmtp
+[2025-12-28T10:37:50.887Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be2723d19sm575660455e9.2 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:41:00.429Z] ------------------------------------------
+[2025-12-28T10:41:00.429Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 569771
+[2025-12-28T10:41:00.429Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:41:00.820Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-432613f7e6esm45121889f8f.21 - gsmtp
+[2025-12-28T10:41:00.820Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-432613f7e6esm45121889f8f.21 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:41:16.825Z] ------------------------------------------
+[2025-12-28T10:41:16.825Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 230405
+[2025-12-28T10:41:16.825Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:41:17.188Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be3a40a14sm231811745e9.2 - gsmtp
+[2025-12-28T10:41:17.188Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be3a40a14sm231811745e9.2 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:42:05.107Z] ------------------------------------------
+[2025-12-28T10:42:05.108Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 842651
+[2025-12-28T10:42:05.108Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:42:05.540Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be27b28a7sm537026085e9.12 - gsmtp
+[2025-12-28T10:42:05.540Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be27b28a7sm537026085e9.12 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:47:22.354Z] ------------------------------------------
+[2025-12-28T10:47:22.354Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 136172
+[2025-12-28T10:47:22.355Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:47:22.732Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47d1936d220sm528141765e9.8 - gsmtp
+[2025-12-28T10:47:22.733Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47d1936d220sm528141765e9.8 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:50:21.921Z] ------------------------------------------
+[2025-12-28T10:50:21.922Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 142408
+[2025-12-28T10:50:21.922Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:50:22.249Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be279c5f8sm513728265e9.9 - gsmtp
+[2025-12-28T10:50:22.249Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5b1f17b1804b1-47be279c5f8sm513728265e9.9 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:53:00.551Z] ------------------------------------------
+[2025-12-28T10:53:00.552Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 934940
+[2025-12-28T10:53:00.552Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:53:00.933Z] ❌ Transporter connection failed: Invalid login: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324eaa4749sm56784592f8f.37 - gsmtp
+[2025-12-28T10:53:00.933Z] Details: {
+  "code": "EAUTH",
+  "response": "534-5.7.9 Application-specific password required. For more information, go to\n534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor ffacd0b85a97d-4324eaa4749sm56784592f8f.37 - gsmtp",
+  "responseCode": 534,
+  "command": "AUTH PLAIN"
+}
+[2025-12-28T10:56:26.459Z] ------------------------------------------
+[2025-12-28T10:56:26.459Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 286820
+[2025-12-28T10:56:26.459Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:56:26.908Z] ✅ Transporter connection verified successfully.
+[2025-12-28T10:56:27.890Z] ✅ Message sent successfully: <3a1c1c5c-940d-00ca-6e4d-1f6befd4e18f@gmail.com>
+[2025-12-28T10:57:55.480Z] ------------------------------------------
+[2025-12-28T10:57:55.480Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 283458
+[2025-12-28T10:57:55.480Z] EMAIL_PASSWORD set: true
+[2025-12-28T10:57:55.912Z] ✅ Transporter connection verified successfully.
+[2025-12-28T10:57:56.845Z] ✅ Message sent successfully: <3557707e-a7ba-4a51-4a92-ee5af197c191@gmail.com>
+[2025-12-28T11:02:23.774Z] ------------------------------------------
+[2025-12-28T11:02:23.775Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 638977
+[2025-12-28T11:02:23.775Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:02:24.243Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:02:25.155Z] ✅ Message sent successfully: <dbb182dd-43e3-541f-3dc7-4db4c000eda1@gmail.com>
+[2025-12-28T11:10:30.628Z] ------------------------------------------
+[2025-12-28T11:10:30.629Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 643173
+[2025-12-28T11:10:30.629Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:10:31.068Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:10:32.121Z] ✅ Message sent successfully: <a841c196-7e36-a7d1-a208-40aa5400b9ce@gmail.com>
+[2025-12-28T11:11:05.189Z] ------------------------------------------
+[2025-12-28T11:11:05.189Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 457788
+[2025-12-28T11:11:05.189Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:11:05.545Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:11:06.566Z] ✅ Message sent successfully: <ffc30316-59f4-5a4f-1887-6e2d461fac9a@gmail.com>
+[2025-12-28T11:13:32.668Z] ------------------------------------------
+[2025-12-28T11:13:32.669Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 268509
+[2025-12-28T11:13:32.669Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:13:32.987Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:13:34.055Z] ✅ Message sent successfully: <8445608d-f4af-b37e-727d-c36f5266fcbf@gmail.com>
+[2025-12-28T11:13:48.561Z] ------------------------------------------
+[2025-12-28T11:13:48.562Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 661995
+[2025-12-28T11:13:48.562Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:13:48.865Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:13:49.723Z] ✅ Message sent successfully: <c6712ce0-412d-1aec-693e-15520c9a0196@gmail.com>
+[2025-12-28T11:44:54.164Z] ------------------------------------------
+[2025-12-28T11:44:54.165Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 777254
+[2025-12-28T11:44:54.165Z] EMAIL_PASSWORD set: true
+[2025-12-28T11:44:54.703Z] ✅ Transporter connection verified successfully.
+[2025-12-28T11:44:55.842Z] ✅ Message sent successfully: <0b7c0d0a-c3d2-4e62-176b-c254467cd000@gmail.com>
+[2025-12-28T18:18:39.182Z] ------------------------------------------
+[2025-12-28T18:18:39.182Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 553578
+[2025-12-28T18:18:39.182Z] EMAIL_PASSWORD set: true
+[2025-12-28T18:18:40.259Z] ✅ Transporter connection verified successfully.
+[2025-12-28T18:18:42.808Z] ✅ Message sent successfully: <1e59492f-30b8-3caa-3574-e88f3d9080ee@gmail.com>
+[2025-12-28T18:19:15.653Z] ------------------------------------------
+[2025-12-28T18:19:15.654Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 524480
+[2025-12-28T18:19:15.654Z] EMAIL_PASSWORD set: true
+[2025-12-28T18:19:17.829Z] ✅ Transporter connection verified successfully.
+[2025-12-28T18:19:23.114Z] ✅ Message sent successfully: <c183927c-a2c1-0019-8794-893841152d4f@gmail.com>
+[2025-12-28T18:26:32.190Z] ------------------------------------------
+[2025-12-28T18:26:32.191Z] EMAIL SENDING INITIATED - Recipient: abachyouness@gmail.com, Code: 631037
+[2025-12-28T18:26:32.191Z] EMAIL_PASSWORD set: true
+[2025-12-28T18:26:33.561Z] ✅ Transporter connection verified successfully.
+[2025-12-28T18:26:36.756Z] ✅ Message sent successfully: <c90e234c-925c-44d6-03f4-ef25614c28c3@gmail.com>
+[2025-12-28T18:27:43.375Z] ------------------------------------------
+[2025-12-28T18:27:43.375Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 294281
+[2025-12-28T18:27:43.375Z] EMAIL_PASSWORD set: true
+[2025-12-28T18:27:45.002Z] ✅ Transporter connection verified successfully.
+[2025-12-28T18:27:46.694Z] ✅ Message sent successfully: <31fa695e-b2f6-fe99-3768-4c1f78c2d2a0@gmail.com>
+[2025-12-28T18:28:01.014Z] ------------------------------------------
+[2025-12-28T18:28:01.014Z] EMAIL SENDING INITIATED - Recipient: younes.sabach@financialhub.com, Code: 397745
+[2025-12-28T18:28:01.014Z] EMAIL_PASSWORD set: true
+[2025-12-28T18:28:01.790Z] ✅ Transporter connection verified successfully.
+[2025-12-28T18:28:04.392Z] ✅ Message sent successfully: <698ae9a9-edd1-0b82-f6d5-8257969fb720@gmail.com>

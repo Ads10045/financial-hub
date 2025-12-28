@@ -1,0 +1,24 @@
+{
+  "LoginPage": {
+    "title": "Bienvenue",
+    "subscriberId": "Numéro d'abonné",
+    "password": "Clé d'accès",
+    "connect": "Se connecter"
+  },
+  "DashboardPage": {
+    "home": "Accueil",
+    "accountList": "Liste des comptes",
+    "promoTitle": "Facilitez-vous la vie avec la signature électronique !",
+    "promoText": "E-signez sur Ma Banque Entreprise tous vos contrats de Banque à distance (EBICS, NetCash...). N'hésitez pas à contacter votre Chargé d'Affaires.",
+    "knowMore": "En savoir +",
+    "maBanque": "Ma Banque Entreprise",
+    "modifyGroup": "Modifier un groupe de comptes",
+    "labelNumber": "Libellé / Numéro",
+    "balanceDate": "Solde au 24/12/2025",
+    "futureBalance": "Solde à venir",
+    "currency": "Devise",
+    "currentAccounts": "COMPTES COURANTS",
+    "totalBalance": "TOTAL DES SOLDES",
+    "topOfPage": "Haut de page"
+  }
+}
