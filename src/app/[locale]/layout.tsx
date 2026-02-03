@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "Financial Hub",
-    description: "Secure Banking Portal",
+    title: "Project Workspace",
+    description: "Internal Development Hub",
 };
 
 export default async function LocaleLayout({
